@@ -1,8 +1,8 @@
-![logo](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)
+![logo](https://camo.githubusercontent.com/5dd958963277e29a5da3c53b758daab0ec77de8de08d1b80eb94c7cd7065dabb/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)
 <h1 align="center">Hi 👋, I'm Neha Majee</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="600" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif">
+<img align="right" alt="coding" width="550" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952rdr1uf8tzixkdduqh53x40hpxivfv85ajfybxihn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2004thv&label=Profile%20views&color=0e75b6&style=flat" alt="neha2004thv" /> </p>
 
