@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Neha Majee</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952rdr1uf8tzixkdduqh53x40hpxivfv85ajfybxihn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952rdr1uf8tzixkdduqh53x40hpxivfv85ajfybxihn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2004thv&label=Profile%20views&color=0e75b6&style=flat" alt="neha2004thv" /> </p>
 
